@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/STOP-TIMER/static/css/main.2e70c86f.css",
+    "main.js": "/STOP-TIMER/static/js/main.55e122b7.js",
+    "static/js/787.aff42930.chunk.js": "/STOP-TIMER/static/js/787.aff42930.chunk.js",
+    "index.html": "/STOP-TIMER/index.html",
+    "main.2e70c86f.css.map": "/STOP-TIMER/static/css/main.2e70c86f.css.map",
+    "main.55e122b7.js.map": "/STOP-TIMER/static/js/main.55e122b7.js.map",
+    "787.aff42930.chunk.js.map": "/STOP-TIMER/static/js/787.aff42930.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e70c86f.css",
+    "static/js/main.55e122b7.js"
+  ]
+}
